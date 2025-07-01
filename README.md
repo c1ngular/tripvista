@@ -16,7 +16,7 @@ a MCP server for Jade Dragon Snow Mountain/玉龙雪山,enjoy live images, time-
 }
 ```
 
-## for mcp client support http streamable , use this config:
+## for mcp client supports http streamable , simply use this config:
 ```
 "JadeDragonSnowMountain": {
   "type": "streamable-http",
