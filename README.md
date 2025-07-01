@@ -17,7 +17,7 @@ a MCP server for Jade Dragon Snow Mountain/玉龙雪山,enjoy live images, time-
 ## for mcp client support http streamable , use this config:
 "JadeDragonSnowMountain": { "type": "streamable-http", "url": "https://multiaidesk.com/api/destinations/mcp", "note": "For Streamable HTTP connections, add this URL directly in Client" }
 
-#Available Tools
+# Available Tools
 
-*listDestinationsAndItsViewPoints
-*getRealTimeImageOrTimelapseVideoUrlForDestination
+* listDestinationsAndItsViewPoints
+* getRealTimeImageOrTimelapseVideoUrlForDestination
