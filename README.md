@@ -27,10 +27,10 @@ a MCP server for Jade Dragon Snow Mountain/玉龙雪山,enjoy live images, time-
 
 # Available Tools
 
-* listDestinationsAndItsViewPoints
-  Parameters:none
-* getRealTimeImageOrTimelapseVideoUrlForDestination
-  Parameters:
-  destination_uid : unique id for interested destination
-  stype: choose among image or video content, 'image' for real-time image, 'video' for time lapse video
-  viewpoint_uid(optional): unique ID for specific viewpoint of selected destination
+* `listDestinationsAndItsViewPoints`
+  * **Parameters:** none
+* `getRealTimeImageOrTimelapseVideoUrlForDestination`
+  * **Parameters:**
+    * `destination_uid`: unique id for interested destination
+    * `stype`: choose among image or video content, 'image' for real-time image, 'video' for time lapse video
+    * `viewpoint_uid` (optional): unique ID for specific viewpoint of selected destination
